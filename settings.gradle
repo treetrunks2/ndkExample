@@ -1,0 +1,3 @@
+rootProject.name='NdkSample2'
+include ':app'
+include ':jnimodule'
